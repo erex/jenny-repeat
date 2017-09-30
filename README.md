@@ -5,3 +5,6 @@ Build second new repo to duplicate chapter 16 of *happygitwithr*
 
 * This is a line from RStudio 
 * _Now editing in browser in Github repo_
+
+
+30Sept, using "Tools > Version Control > commit"
